@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 02dff0748300b3c0f625ced227ebde6b2b300612
 // Soldier
 function Soldier(health, strength){
     this.health = health;
@@ -79,6 +82,7 @@ this.showStatus = function showStatus () {
     return `Vikings and Saxons are still in the thick of battle`
 }
 }
+<<<<<<< HEAD
 =======
 // Iteration 1
 function Soldier (health, strength){
@@ -199,3 +203,5 @@ function War (){
 
 
 >>>>>>> refactoring iterations 1 to 3
+=======
+>>>>>>> 02dff0748300b3c0f625ced227ebde6b2b300612
